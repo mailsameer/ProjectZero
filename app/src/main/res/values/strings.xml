@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ProjectZero</string>
+    <string name="title">My App Portfolio</string>
+    <string name="nanodegree_apps_label">My Nanodegree Apps!!!</string>
+    <string name="project_1_name">POPULAR MOVIES</string>
+    <string name="project_2_name">STOCK HAWK</string>
+    <string name="project_3_name">BUILD IT BIGGER</string>
+    <string name="project_4_name">MAKE YOUR APP MATERIAL</string>
+    <string name="project_5_name">GO UBIQUITOUS</string>
+    <string name="project_6_name">CAPSTONE</string>
+    <string name="project_1_message">This button will launch my Popular Movies App</string>
+    <string name="project_2_message">This button will launch my Stock Hawk App</string>
+    <string name="project_3_message">This button will launch my Build It Bigger App</string>
+    <string name="project_4_message">This button will launch my Make Your App Material App</string>
+    <string name="project_5_message">This button will launch my Go Ubiquitous App</string>
+    <string name="project_6_message">This button will launch my Capstone App</string>
+</resources>

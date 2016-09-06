@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.nanodegree.sameer.projectzero.MyAppsActivity">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        style="@style/CustomTextViewTheme"
+        android:layout_marginBottom="@dimen/buttonPadding"
+        android:text="@string/nanodegree_apps_label"/>
+
+    <Button
+        style="@style/CustomButtonTheme"
+        android:text="@string/project_1_name"
+        android:id="@+id/btnProject1"/>
+
+    <Button
+        style="@style/CustomButtonTheme"
+        android:text="@string/project_2_name"
+        android:id="@+id/btnProject2"/>
+
+    <Button
+        style="@style/CustomButtonTheme"
+        android:text="@string/project_3_name"
+        android:id="@+id/btnProject3"/>
+
+    <Button
+        style="@style/CustomButtonTheme"
+        android:text="@string/project_4_name"
+        android:id="@+id/btnProject4"/>
+
+    <Button
+        style="@style/CustomButtonTheme"
+        android:text="@string/project_5_name"
+        android:id="@+id/btnProject5"/>
+
+    <Button
+        style="@style/CustomButtonTheme"
+        android:text="@string/project_6_name"
+        android:id="@+id/btnProject6"/>
+    </LinearLayout>
+
+</RelativeLayout>
